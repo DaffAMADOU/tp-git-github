@@ -1,1 +1,3 @@
-"# Mon premier d‚p“t Git" 
+"# Mon premier dï¿½pï¿½t Git" 
+
+Ce projet est rÃ©alisÃ© dans le cadre du TP Git & GitHub.
